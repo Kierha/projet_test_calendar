@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "calendar_service_web": "github:Kierha/calendar_service_web"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
